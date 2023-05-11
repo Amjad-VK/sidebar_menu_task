@@ -194,7 +194,7 @@ class _drawerainState extends State<drawerain> {
                     padding: const EdgeInsets.only(right: 69),
                     child: Text(
                       'Sarah Abs',
-                      style: TextStyle(color: Colors.white),
+                      style: TextStyle(color: Colors.white,fontWeight: FontWeight.bold),
                     ),
                   ),
                   Text('sarahabs@gmail.com',
